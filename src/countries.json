@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Australia",
+        "iso3": "AUS"
+    },
+    {
+        "id": 2,
+        "name": "Austria",
+        "iso3": "AUT"
+    },
+    {
+        "id": 3,
+        "name": "Belgium",
+        "iso3": "BEL"
+    },
+    {
+        "id": 4,
+        "name": "Canada",
+        "iso3": "CAN"
+    },
+    {
+        "id": 5,
+        "name": "Denmark",
+        "iso3": "DNK"
+    },
+    {
+        "id": 6,
+        "name": "Estonia",
+        "iso3": "EST"
+    },
+    {
+        "id": 7,
+        "name": "Finland",
+        "iso3": "FIN"
+    },
+    {
+        "id": 8,
+        "name": "France",
+        "iso3": "FRA"
+    },
+    {
+        "id": 9,
+        "name": "Germany",
+        "iso3": "DEU"
+    },
+    {
+        "id": 10,
+        "name": "Greece",
+        "iso3": "GRC"
+    },
+    {
+        "id": 11,
+        "name": "Hong Kong",
+        "iso3": "HKG"
+    },
+    {
+        "id": 12,
+        "name": "India",
+        "iso3": "IND"
+    },
+    {
+        "id": 13,
+        "name": "Ireland",
+        "iso3": "IRL"
+    },
+    {
+        "id": 14,
+        "name": "Italy",
+        "iso3": "ITA"
+    },
+    {
+        "id": 15,
+        "name": "Japan",
+        "iso3": "JPN"
+    },
+    {
+        "id": 16,
+        "name": "Latvia",
+        "iso3": "LVA"
+    },
+    {
+        "id": 17,
+        "name": "Lithuania",
+        "iso3": "LTU"
+    },
+    {
+        "id": 18,
+        "name": "Luxembourg",
+        "iso3": "LUX"
+    },
+    {
+        "id": 19,
+        "name": "Mexico",
+        "iso3": "MEX"
+    },
+    {
+        "id": 20,
+        "name": "Netherlands",
+        "iso3": "NLD"
+    },
+    {
+        "id": 21,
+        "name": "New Zealand",
+        "iso3": "NZL"
+    },
+    {
+        "id": 22,
+        "name": "Norway",
+        "iso3": "NOR"
+    },
+    {
+        "id": 23,
+        "name": "Poland",
+        "iso3": "POL"
+    },
+    {
+        "id": 24,
+        "name": "Portugal",
+        "iso3": "PRT"
+    },
+    {
+        "id": 25,
+        "name": "Singapore",
+        "iso3": "SGP"
+    },
+    {
+        "id": 26,
+        "name": "Slovakia",
+        "iso3": "SVK"
+    },
+    {
+        "id": 27,
+        "name": "Slovenia",
+        "iso3": "SVN"
+    },
+    {
+        "id": 28,
+        "name": "Spain",
+        "iso3": "ESP"
+    },
+    {
+        "id": 29,
+        "name": "Sweden",
+        "iso3": "SWE"
+    },
+    {
+        "id": 30,
+        "name": "Switzerland",
+        "iso3": "CHE"
+    },
+    {
+        "id": 31,
+        "name": "United Kingdom",
+        "iso3": "GBR"
+    },
+    {
+        "id": 32,
+        "name": "United States",
+        "iso3": "USA"
+    }
+]
